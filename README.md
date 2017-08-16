@@ -1,4 +1,4 @@
-# datatable product
+# datatable MVC product
 
 This is ASP.NET product application, which is represented as:
 
